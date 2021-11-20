@@ -9,10 +9,11 @@
     <title>CSS Grid</title>
     <!-- Provide CSS grid styling -->
     <style>
+        /* Note that <style> tags use a different commenting style */
         .content {
             /* style the content class with a grid layout using fractional notation */
             display: grid;
-            grid-template-columns: 1fr 2fr 1fr;
+            grid-template-columns: repeat((6, 1fr));
             grid-template-rows: 2fr 1fr 1fr 2fr;
             gap: 5px;
         }
