@@ -9,18 +9,24 @@
     <title>CSS Grid</title>
     <!-- Provide CSS grid styling -->
     <style>
+        .content {
+            /* style the content class with a grid layout using fractional notation */
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+        }
         div {
             background: cadetblue;
             padding: 30px;
             text-align: center;
         }
         div:nth-of-type(odd) {
+            /* Provide alternate coloring for odd rows */
             background: burlywood;
         }
     </style>
 </head>
 <body>
-    <main>
+    <main class="content">
         <div>1</div>
         <div>2</div>
         <div>3</div>
