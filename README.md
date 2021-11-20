@@ -8,3 +8,4 @@ A web page is like a stool with 3 legs:
 CSS has been through multiple iterations to help make it better at giving styling control over a web page with fewer lines of code.  In recent iterations, it enables a grid-style visualization of the web page, and gives us control over how the grid looks, with minimal code.
 
 MIT xPRO: Professional Certificate in Coding: Full Stack Development with MERN - September 2021
+.
