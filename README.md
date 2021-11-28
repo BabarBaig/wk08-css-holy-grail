@@ -1,4 +1,6 @@
-# wk08a-css-grid
+# wk08-css-holy-grail
+
+"The holy grail is a web page layout which has multiple, equal height columns that are defined with style sheets. It is commonly desired and implemented, but for many years, the various ways in which it could be implemented with available technologies all had drawbacks.[1] Because of this, finding an optimal implementation was likened to searching for the elusive Holy Grail."  See also <https://en.wikipedia.org/wiki/Holy_grail_(web_design)>
 
 A web page is like a stool with 3 legs:
 
